@@ -20,23 +20,26 @@ Plataforma de gestão de identidades e acessos (IAM) que combina:
 
 ## Como rodar o projeto (Ubuntu 24.04 LTS)
 
-  pnpm install
-  pnpm dev
+```bash
+pnpm install
+pnpm dev
+```
 
-## Estrutura do repositório
+## Estrutura inicial do repositório
 
-  projetoclaudiamaster/
-  |-- .github/
-  |   |-- workflows/
-  |-- docs/
-  |   |-- architecture/
-  |   |-- changelog/
-  |-- frontend/
-  |-- README.md
+```text
+projetoclaudiamaster/
+├─ docs/
+│  ├─ architecture/
+│  └─ changelog/
+├─ frontend/
+├─ LICENSE
+└─ README.md
+```
 
 ## Contribuição
-1. Fork o repositório
-2. Crie uma branch feature/nome-da-feature
-3. Abra um Pull Request apontando para main
+1. Fork o repositório  
+2. Crie uma branch `feature/nome-da-feature`  
+3. Abra um Pull Request apontando para `main`  
 
-Este README sera mantido atualizado a cada entrega de funcionalidade.
+Este README será mantido atualizado a cada entrega de funcionalidade.

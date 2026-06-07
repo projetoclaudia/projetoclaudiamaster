@@ -8,9 +8,9 @@ Instalar e configurar a stack base para o C.L.A.U.D.I.A.
 - Vite (build)
 - Tailwind CSS + shadcn/ui
 - Zustand (state)
-- React Hook Form + Zod (validacao de formularios)
+- React Hook Form + Zod (validação de formulários)
 - Axios (HTTP client com interceptors)
-- ESLint + Prettier + Husky (qualidade de codigo)
+- ESLint + Prettier + Husky (qualidade de código)
 
 ## Ambiente
 - Ubuntu 24.04 LTS
@@ -20,13 +20,13 @@ Instalar e configurar a stack base para o C.L.A.U.D.I.A.
 ## Passos executados
 1. Node 20 instalado via nvm
 2. pnpm instalado globalmente
-3. Git configurado com usuario projetoclaudiamaster
-4. Repositorio local inicializado em /home/supremo/projetoclaudiamaster
-5. Branch padrao definida como main
+3. Git configurado com usuário projetoclaudiamaster
+4. Repositório local inicializado em /home/supremo/projetoclaudiamaster
+5. Branch padrão renomeada para main
 6. Estrutura de pastas criada: frontend/, docs/architecture/, docs/changelog/
 7. README.md, .gitignore e LICENSE criados
 
-## Proximos passos (Etapa 2)
+## Próximos passos (Etapa 2)
 - Scaffold do frontend com Vite + React + TS
 - Configurar Tailwind CSS
 - Instalar e configurar shadcn/ui
